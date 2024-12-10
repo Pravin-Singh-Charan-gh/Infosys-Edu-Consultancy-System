@@ -40,7 +40,6 @@ MYSQL
 ![Slide1](https://github.com/user-attachments/assets/dcc716cd-97d6-4fc6-b7c8-00b05892616b)
 ![Slide2](https://github.com/user-attachments/assets/691890d8-eda5-46ad-97c5-39721ad4f120)
 ![Slide3](https://github.com/user-attachments/assets/63db3479-d0b3-47d5-8e86-9b5beeba4cac)
-![Slide4](https://github.com/user-attachments/assets/33756b41-e6a2-4b90-84b9-d5b4020c639f)
 ![Slide5](https://github.com/user-attachments/assets/3a1ecda9-f9a6-4a6f-87d4-e2d807d2d59d)
 ![Slide6](https://github.com/user-attachments/assets/45195424-973e-4775-a61b-ef737c14219c)
 ![Slide7](https://github.com/user-attachments/assets/1b4698e9-99c5-4651-98a5-db545139a70a)
